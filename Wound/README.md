@@ -8,6 +8,6 @@ tensorflow-gpu==1.13
 Keras==2.2.4
     
 ## Run
-    python3 train.py
-    python3 predict.py
+    python3 run.py
+    
   
